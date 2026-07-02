@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first year PhD student at the Graz University of Technology at the institute of Algorithms and Theory (ATCS) under the supervision of Brigit Vogenthuber.
+I am a first year PhD student at Graz University of Technology at the Institute of Algorithms and Theory (ATCS) under the supervision of Brigit Vogenthuber.
 
 My research interests are in the area of discrete and computational geometry and graph drawing. I am particularly interested in combinatorial properties of graph drawings.
 
