@@ -30,11 +30,12 @@ latest_posts:
 <style>
 .highlight {
   display: inline-block;
-  background: #dbeafe;
-  color: #1e3a8a;
-  padding: 0.15em 0.5em;
-  border-radius: 6px;
-  font-weight: 500;
+  background: #60a5fa;
+  color: #1f2937;
+  padding: 0.05em 0.4em;
+  border-radius: 5px;
+  font-size: 0.95em;
+  line-height: 1.2;
 }
 </style>
 
