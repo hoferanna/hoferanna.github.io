@@ -41,11 +41,11 @@ latest_posts:
 I am a first year PhD student at Graz University of Technology at the [Institute of Algorithms and Theory (ATCS)](https://www.tugraz.at/institute/atcs/people/anna-hofer) under the supervision of [Brigit Vogenthuber](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=E80A1F54D366E269).
 
 My research interests are in the area of 
-<highlight>
+<span class="highlight">
 Discrete and Computational Geometry
-</highlight> and <highlight>
+</span> and <span class="highlight">
 Graph Drawing
-</highlight>. I am particularly interested in combinatorial properties of graph drawings.
+</span>. I am particularly interested in combinatorial properties of graph drawings.
 
 {% comment %}
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
