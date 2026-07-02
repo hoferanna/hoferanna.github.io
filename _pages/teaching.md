@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Current and past classes taught.
+description: Overview on my teaching experience.
 nav: true
 nav_order: 6
 calendar: false
