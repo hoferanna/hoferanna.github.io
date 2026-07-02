@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Institute of Algorithms and Theory</p> <!-- alternatively state office number here-->
+    <p>Institute of Algorithms and Theory</p>
     <p>Münzgrabenstraße 36</p>
     <p>8010 Graz, AUSTRIA</p>
 
