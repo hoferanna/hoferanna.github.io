@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Welcome to my new homepage :sunflower: This page is still work in progress!
+Welcome to my new website :sunflower: This page is still work in progress!
