@@ -13,7 +13,6 @@ Here you can find a list of all the courses I am currently teaching or was invol
 
 {% comment %}
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+{% endcomment %}
 
 {% include courses.liquid %}
-
-{% endcomment %}
