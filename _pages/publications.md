@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications in reversed chronological order.
+description: A list of all publications in reversed chronological order. Authors are listed alphabetically.
 nav: true
 nav_order: 2
 ---
