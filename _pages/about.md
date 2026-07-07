@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+subtitle: she/her
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -10,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ATCS, TU Graz</p>
-    <p>Münzgrabenstraße 36</p>
+    <p>Münzgrabenstraße 36/II</p>
     <p>8010 Graz, AUSTRIA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -47,6 +48,8 @@ Discrete and Computational Geometry
 </span> and <span class="highlight">
 Graph Drawing
 </span>. I am particularly interested in combinatorial properties of graph drawings.
+
+Contact information: first-name[dot]last-name[at]tugraz[dot]at
 
 {% comment %}
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
