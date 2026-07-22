@@ -18,7 +18,7 @@
               {% endif %}
 
               {% if course.term %}
-                <span class="course-term">{{ course.term }} {% if page.year %} {{ page.year }}{% endif %}</span>
+                <span class="course-term">, {{ course.term }} {% if course.year %} {{ course.year }}{% endif %}</span>
               {% endif %}
 
               {% if course.instructor %}
