@@ -12,13 +12,13 @@
               <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
             </h3>
 
-            <div class="course-meta">
-              {% if course.term %}
-                <span class="course-term">{{ course.term }} {% if page.year %} {{ page.year }}{% endif %}</span>
+            <div class="course-meta">              
+              {% if course.institution %}
+                <span class="course-institution">{{ course.institution }}</span>
               {% endif %}
 
-              {% if course.institution %}
-                <span class="course-instructor">{{ course.institution }}</span>
+              {% if course.term %}
+                <span class="course-term">{{ course.term }} {% if page.year %} {{ page.year }}{% endif %}</span>
               {% endif %}
 
               {% if course.instructor %}
