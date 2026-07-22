@@ -7,7 +7,7 @@ year: 2025/26
 term: Winter
 course_id: 721.002.WS2526
 institution: TU Graz
-institute: ATCS
+institute: Institute of Algorithms and Theory
 role: Teaching assistent
 level: Undergraduate
 ---
