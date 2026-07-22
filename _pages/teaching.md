@@ -2,13 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: An overview on my teaching experience.
+description: Here you can find a list of all the courses I am currently teaching or have been involved previously.
 nav: true
 nav_order: 3
 calendar: false
 ---
 
-Here you can find a list of all the courses I am currently teaching or was involved in in the past.
 
 
 {% comment %}
