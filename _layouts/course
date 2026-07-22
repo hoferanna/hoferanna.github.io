@@ -9,7 +9,7 @@ layout: page
       {% endif %}
 
       {% if page.term %}
-        <p><strong>Term:</strong> {{ page.term }} {{ page.year }}</p>
+        <p><strong>Term:</strong> {{ page.term }}{% if page.year %} {{ page.year }}{% endif %}</p>
       {% endif %}
 
       {% if page.location %}
