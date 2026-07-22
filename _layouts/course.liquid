@@ -2,7 +2,7 @@
 layout: page
 ---
 <div class="course">
-  {% if page.instructor or page.term or page.location or page.time %}
+  {% if page.instructor or page.term or page.location or page.time or page.institution or page.role or page.level %}
     <div class="course-info">
       {% if page.instructor %}
         <p><strong>Instructor:</strong> {{ page.instructor }}</p>
@@ -12,12 +12,24 @@ layout: page
         <p><strong>Term:</strong> {{ page.term }}{% if page.year %} {{ page.year }}{% endif %}</p>
       {% endif %}
 
+      {% if page.institution %}
+        <p><strong>Time:</strong> {{ page.institution }}{% if page.institute %}, {{ page.institute }}{% endif %}</p>
+      {% endif %}
+
       {% if page.location %}
         <p><strong>Location:</strong> {{ page.location }}</p>
       {% endif %}
 
       {% if page.time %}
         <p><strong>Time:</strong> {{ page.time }}</p>
+      {% endif %}
+
+      {% if page.role %}
+        <p><strong>Time:</strong> {{ page.role }}</p>
+      {% endif %}
+
+      {% if page.level %}
+        <p><strong>Time:</strong> {{ page.level }}</p>
       {% endif %}
     </div>
   {% endif %}

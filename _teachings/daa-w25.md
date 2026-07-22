@@ -5,5 +5,9 @@ description: This course introduces fundamental principles and techniques of alg
 # instructor: Yannic Maus, Birgit Vogtenhuber
 year: 2025/26
 term: Winter
-course_id: 721.002
+course_id: 721.002.WS2526
+institution: TU Graz
+institute: ATCS
+role: Teaching assistent
+level: Undergraduate
 ---
