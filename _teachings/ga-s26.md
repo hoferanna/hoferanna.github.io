@@ -8,6 +8,6 @@ term: Summer
 course_id: 721.015.SS25/26
 institution: TU Graz
 institute: Institute of Algorithms and Theory
-role: Teaching assistent
+role: Co-Instructor
 level: Graduate
 ---

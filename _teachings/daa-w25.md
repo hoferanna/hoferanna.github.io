@@ -8,6 +8,6 @@ term: Winter
 course_id: 721.002.WS2526
 institution: TU Graz
 institute: Institute of Algorithms and Theory
-role: Teaching assistent
+role: Co-Instructor
 level: Undergraduate
 ---
