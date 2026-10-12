@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ATCS, TU Graz</p>
-    <p>Münzgrabenstraße 36/II</p>
+    <p>Inffeldgasse 16a/I</p>
     <p>8010 Graz, AUSTRIA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
